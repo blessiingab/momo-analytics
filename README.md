@@ -14,9 +14,10 @@ Key components:
 - Optional API: FastAPI endpoints to serve transaction and analytics data
 
 ## Team Members
-  Blessing Ingabire – [blessiingab]
-  Tabitha Dorcas Akimana – [tdorcas-akim]  
-  Adoleh Samuel – [AdolehSamuel]
+ Blessing Ingabire – [blessiingab]
+ 
+ Tabitha Dorcas Akimana – [tdorcas-akim]  
+ Adoleh Samuel – [AdolehSamuel]
 
 
 ## Scrum Board
