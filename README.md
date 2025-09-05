@@ -1,4 +1,4 @@
-# MoMo Analytics
+MoMo Analytics
 
 GROUP8
 
@@ -13,20 +13,18 @@ Key components:
 - Frontend: HTML, CSS, JS dashboard for analytics and visualization
 - Optional API: FastAPI endpoints to serve transaction and analytics data
 
-## Team Members
+Team Members
  Blessing Ingabire – [blessiingab]
- 
  Tabitha Dorcas Akimana – [tdorcas-akim]  
  Adoleh Samuel – [AdolehSamuel]
 
 
-## Scrum Board
-[Add your Scrum board link here – GitHub Projects / Trello / Jira]
+Scrum Board
+https://github.com/users/blessiingab/projects/1/views/1
 
-## Architecture Diagram
-See `/docs/architecture-diagram.png` for the system architecture.
-
-## Project Structure (Planned)
+ Architecture Diagram
+[View on Draw.io](https://app.diagrams.net/#G1DS-VaUmfjWL8Zuxx2-JZYDlryqKzC5PP#%7B"pageId"%3A"ed_Eie-8lNssMi18Xb6K"%7D)
+ Project Structure (Planned)
 ├── README.md
 ├── .env.example
 ├── requirements.txt
